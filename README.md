@@ -1,4 +1,3 @@
-```markdown
 # Criando e Gerenciando Volumes EBS no EC2
 
 Este repositório documenta o processo de criação, anexo, formatação e montagem de um volume EBS em uma instância EC2 com Amazon Linux 2.
@@ -65,7 +64,7 @@ Este repositório documenta o processo de criação, anexo, formatação e monta
 
 ## Print de confirmação
 
-![PRINT-EC2-EBS.jpg](PRINT-EC2-EBS.jpg)
+![PRINT-EC2-EBS.jpg](PRINT-EC2-EBS.jpeg)
 
 ## Conclusão
 
